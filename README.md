@@ -31,3 +31,6 @@ This project predicts financial market movements using sentiment analysis and se
 
 ## Contributors
 - Ayesha Imran
+- Mashal Naveed
+- Shiza Nasir
+
